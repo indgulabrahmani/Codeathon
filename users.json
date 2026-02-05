@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1770248490867",
+    "name": "Brahmani Indugula",
+    "email": "indgulabrahmani@gmail.com",
+    "password": "$2a$10$LwoudqNDIfZ40vNGb6nwiOaH4mM3fFHO0//kfvEAPWXr1kAB3ZjGm",
+    "createdAt": "2026-02-04T23:41:30.867Z"
+  },
+  {
+    "id": "1770270969123",
+    "name": "Manish ",
+    "email": "csmp2408@gmail.com",
+    "password": "$2a$10$Am5L3tE1zvzxSnf328wT7ee91XUmWs.89Ifd.bGUn0hEv6tab6eHa",
+    "createdAt": "2026-02-05T05:56:09.123Z"
+  },
+  {
+    "id": "1770271453418",
+    "name": "Brahmani Indugula",
+    "email": "brahmaniindugula@gmail.com",
+    "password": "$2a$10$RdELhvbmP0KRZvETBj8UVe2mBlzeHF9yjfab/ydvO4TgFR3xosBr.",
+    "createdAt": "2026-02-05T06:04:13.418Z"
+  },
+  {
+    "id": "1770272600281",
+    "name": "Pavan Sai",
+    "email": "kajulurupavansai@gmail.com",
+    "password": "$2a$10$CIvw7fr2AgB1gpTZWjxFO.8GszFwyuLDzXnoDUf3M8OnaP93IhZ4i",
+    "verified": false,
+    "verificationToken": "84a4d06c-f2ea-4ccc-81ec-44a6538c1032",
+    "createdAt": "2026-02-05T06:23:20.281Z"
+  }
+]
